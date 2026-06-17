@@ -4,14 +4,14 @@ title: $:/plugins/linonetwo/copy-on-select/language/zh-Hans/Readme
 
 <<lingo Description>>
 
-!! 动机
+!! Motivacion
 
-我已经习惯了用方便的[[Copy On Select|https://addons.mozilla.org/en-US/firefox/addon/copy-on-select]] Firefox 插件，现在到了 TiddlyWiki 里我经常还是以为选中了就复制了，然后黏贴到别的地方才发现其实并没有复制，很不习惯。
+Me he acostumbrado a utilizar convenientes[[Copy On Select|https://addons.mozilla.org/en-US/firefox/addon/copy-on-select]] Firefox Complementos, ahora aqui TiddlyWiki A menudo pienso que lo he copiado despues de seleccionarlo, y luego lo pego en otro lugar solo para descubrir que en realidad no ha sido copiado. No estoy acostumbrado a ello.。
 
-所以我自己重新写了一个适配 TiddlyWiki 的选中即复制脚本。
+Asi que yo mismo reescribi una adaptacion. TiddlyWiki Seleccione y copie el guion.。
 
-!! 用法
+!! Uso
 
-选中编辑器、按钮等区域以外的任何文本，并保持按住鼠标一秒，就复制选中的内容。
+Seleccione cualquier texto fuera del area del editor, boton, etc. y mantenga presionado el mouse durante un segundo para copiar el contenido seleccionado.。
 
-这个插件里的条件语句让它在编辑器等特殊区域内不会起作用，以免干扰「全选黏贴覆盖原有内容」等操作。
+Las declaraciones condicionales de este complemento impiden que surta efecto en areas especiales como el editor para evitar interferencias.「Seleccione y pegue todo para cubrir el contenido original.」Espere la operacion。
